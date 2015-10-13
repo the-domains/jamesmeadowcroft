@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JamesMeadowcroft]]></title>
+        <description><![CDATA[JamesMeadowcroft]]></description>
+        <link>https://thegrid.ai/jamesmeadowcroft/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 13 Oct 2015 23:06:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jamesmeadowcroft/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vox Magazine]]></title>
+            <description><![CDATA[<article><h1>Vox Magazine</h1><p>A magazine developed for the students of Yarra Valley Grammar to showcase work.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14d6ef68-46ed-487f-ae2d-ecb967e38fb6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jamesmeadowcroft/vox-magazine/index.html</link>
+            <guid isPermaLink="false">f50feda4-99ab-4552-8a1b-5947ef420183</guid>
+            <pubDate>Tue, 13 Oct 2015 23:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia Day]]></title>
+            <description><![CDATA[<article><h1>Australia Day</h1><p>Social media Australia Day celebration made for Yoke Design.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d32df514-0fd7-4541-b9cd-0236db067abd.png"></article>]]></description>
+            <link>https://thegrid.ai/jamesmeadowcroft/australia-day/index.html</link>
+            <guid isPermaLink="false">2d209e3c-3aa6-4a3b-a54b-0a2382a72e2e</guid>
+            <pubDate>Tue, 13 Oct 2015 22:36:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hyjinx Rebranding]]></title>
+            <description><![CDATA[<article><h1>Hyjinx Rebranding</h1><p>Hyjinx Band Rebranding including brand mark, gig posters and details slips.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdb37153-ef6b-4aee-b0fb-b3902c1828f8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jamesmeadowcroft/hyjinx-rebranding/index.html</link>
+            <guid isPermaLink="false">ce788473-42c8-439e-897a-f7dd767cabd0</guid>
+            <pubDate>Tue, 13 Oct 2015 22:33:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
